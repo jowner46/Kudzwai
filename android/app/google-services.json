@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898743213201",
+    "firebase_url": "https://gugulethu-ab10f.firebaseio.com",
+    "project_id": "gugulethu-ab10f",
+    "storage_bucket": "gugulethu-ab10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898743213201:android:0a3501a87a407e07abf330",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898743213201-ict8s4muknaspojt0l5e00c410q76nkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf70uxSnI4lJqRJ7SPr6CQbpo3rvfJFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898743213201-ict8s4muknaspojt0l5e00c410q76nkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
